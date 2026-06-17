@@ -68,9 +68,8 @@ Active Directory, Microsoft Exchange and containerized services.
   <img src="https://img.shields.io/badge/ESPHome-111827?style=for-the-badge&logo=esphome&logoColor=white" alt="ESPHome">
   <img src="https://img.shields.io/badge/Home%20Assistant-111827?style=for-the-badge&logo=homeassistant&logoColor=41BDF5" alt="Home Assistant">
   <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi">
 </p>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=puha-dev&style=flat-square&color=555555" alt="Profile views">
 
