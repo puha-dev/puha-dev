@@ -19,7 +19,6 @@ Active Directory, Microsoft Exchange and containerized services.
 <p>
    <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEgMy40IDEwLjIgMnY5SDFWMy40Wm0xMC4yLTEuNkwyMyAwdjExSDExLjJWMS44Wk0xIDEzaDkuMnY5TDEgMjAuNlYxM1ptMTAuMiAwSDIzdjExbC0xMS44LTEuOFYxM1oiLz48L3N2Zz4%3D" alt="Windows">
   <img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Rocky%20Linux-111827?style=for-the-badge&logo=rockylinux&logoColor=10B981" alt="Rocky Linux">
 </p>
 
 ## Microsoft Infrastructure
